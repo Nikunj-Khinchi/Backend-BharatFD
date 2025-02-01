@@ -191,3 +191,11 @@ Use the provided `docker-compose.yml` file to run the application with Docker Co
 ```sh
 docker-compose up --build
 ```
+
+---
+## Deployment
+
+The application is deployed on Render. You can access the health check endpoint at the following link:
+
+[Health Check Endpoint](https://backend-bharatfd.onrender.com/api/healthcheck)
+
